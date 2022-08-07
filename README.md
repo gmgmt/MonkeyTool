@@ -1,6 +1,6 @@
 # MonkeyTool
 1、使用说明 -V1.1.4
-![工具总览](http://182.150.22.16:7788/gitlab-instance-ac781f12/monkeytools_phone/-/raw/main/image/summary.jpg)
+![工具总览](https://github.com/gmgmt/MonkeyTool/blob/main/image/summary.jpg)
 点击指导手册之后，点击弹窗是，即可跳转至本文档
 ![帮助](http://182.150.22.16:7788/gitlab-instance-ac781f12/monkeytools_phone/-/raw/main/image/help.jpg)
 操作步骤
